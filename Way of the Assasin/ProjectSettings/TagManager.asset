@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - DeadPlayer
+  - Cave
+  - ObjectEnemy
+  - Coins
+  - PicketFence
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - MainPerson
+  - Enemy
+  - DeadPerson
+  - Cave
+  - CavePlayer
+  - HealthEnemy
+  - EmenyDead
+  - Border
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sky
+    uniqueID: 4222337105
+    locked: 0
+  - name: Sun
+    uniqueID: 2712266241
+    locked: 0
+  - name: Clouds
+    uniqueID: 2613257429
+    locked: 0
+  - name: Mountains2
+    uniqueID: 2680207051
+    locked: 0
+  - name: Mountains
+    uniqueID: 2965809535
+    locked: 0
+  - name: Grass4
+    uniqueID: 1120157229
+    locked: 0
+  - name: Grass3
+    uniqueID: 1063323779
+    locked: 0
+  - name: Spruce2
+    uniqueID: 433140651
+    locked: 0
+  - name: Grass2
+    uniqueID: 483358983
+    locked: 0
+  - name: Spruce
+    uniqueID: 4051845215
+    locked: 0
+  - name: Grass
+    uniqueID: 1264449571
+    locked: 0
+  - name: Cave
+    uniqueID: 1927054279
+    locked: 0
+  - name: Enemy
+    uniqueID: 1016185617
+    locked: 0
+  - name: Buttons
+    uniqueID: 2726689985
+    locked: 0
+  - name: Person
+    uniqueID: 2294407589
+    locked: 0
+  - name: Earth
+    uniqueID: 1341121333
+    locked: 0
+  - name: Cave
+    uniqueID: 1550460887
+    locked: 0
+  - name: Earth2
+    uniqueID: 3252231079
+    locked: 0
